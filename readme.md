@@ -5,7 +5,7 @@ I know this code is very unprofessional but I've never had the time to fix thisâ
 
 Feel free to modify this code and redistribute it.
 
-![Screenshot](preview.jpg)
+![alt text](https://github.com/openSourceAppetizers/File-Generator/blob/master/Preview.jpg)
 
 ## License
 
